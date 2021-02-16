@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1495738903 source:e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\fullycontrollablecamera\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"file2.h"
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+
+1392007564 e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\fullycontrollablecamera\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1495738924 e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\fullycontrollablecamera\file2.h
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1493045687 e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\fullycontrollablecamera\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1495832179 source:e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\ray tracer\main.cpp
+	<bits/stdc++.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"file2.h"
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+	"main.h"
+
+1495831101 e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\ray tracer\file2.h
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\ray tracer\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1493045687 e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\ray tracer\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
+1495826173 e:\level-4 term-2\cse 410_computer graphics_sessional\4.ray tracing\ray tracer\main.h
+
