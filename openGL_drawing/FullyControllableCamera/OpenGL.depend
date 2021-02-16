@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1488654574 source:e:\level-4 term-2\cse 410_computer graphics_sessional\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\level-4 term-2\cse 410_computer graphics_sessional\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1488657584 source:e:\level-4 term-2\cse 410_computer graphics_sessional\assignment 1\cubetosphere\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\level-4 term-2\cse 410_computer graphics_sessional\assignment 1\cubetosphere\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1488862836 source:e:\level-4 term-2\cse 410_computer graphics_sessional\assignment 1\fullycontrollablecamera\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 e:\level-4 term-2\cse 410_computer graphics_sessional\assignment 1\fullycontrollablecamera\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
